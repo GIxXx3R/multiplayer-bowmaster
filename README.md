@@ -1,4 +1,4 @@
-# multiplayer-bowmaster
+# Multiplayer Bowmaster
 Game design inspired by the popular Bowmaster game
 
 A team of 3 crazy game engineers designed and developed a multiplayer game in training using Unity3D in 1 week. 
